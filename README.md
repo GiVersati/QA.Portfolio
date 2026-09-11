@@ -130,7 +130,7 @@ Test cases and defects on their own, without opening the doc: [`factorial-calcul
 - Manual, functional, regression, smoke, and exploratory testing
 - Test case creation and defect documentation
 - Root cause analysis
-- Basic Java (Selenium context), JavaScript, HTML/CSS
+- Java (Selenium context), JavaScript, HTML/CSS
 
 ### Soft skills 📁
 
